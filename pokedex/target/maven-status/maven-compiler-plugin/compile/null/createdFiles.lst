@@ -1,0 +1,6 @@
+br\com\fiap\dao\ConnectionFactory.class
+br\com\fiap\GreetingResource.class
+br\com\fiap\resource\PokemonResource.class
+br\com\fiap\bo\PokemonBO.class
+br\com\fiap\dao\PokemonDAO.class
+br\com\fiap\to\PokemonTO.class
